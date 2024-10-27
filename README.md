@@ -24,6 +24,7 @@
 Below is the model's training performance, showing training loss per epoch and accuracy metrics:
 
 ![PHOTO-2024-10-27-09-48-36](https://github.com/user-attachments/assets/d6d5d296-4f47-48e3-9350-2640fcb2338b)
+![WhatsApp Image 2024-10-27 at 10 32 47](https://github.com/user-attachments/assets/1684718c-f456-4d3c-9db9-738537c598a8)
 
 
 ## Features
